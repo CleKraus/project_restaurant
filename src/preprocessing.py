@@ -36,14 +36,3 @@ def select_relevant_columns(df: pd.core.frame.DataFrame) -> pd.core.frame.DataFr
         raise KeyError(msg)
 
     return df
-
-
-
-
-def func_test(a):
-
-
-
-    print   ("Hello World")
-
-
