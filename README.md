@@ -8,3 +8,5 @@ Hello, I'm Clemens
 Hello I'm team member2
 
 Hurray, I'm in branch feature 1
+
+This is my first text from VSC
