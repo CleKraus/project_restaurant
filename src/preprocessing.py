@@ -43,4 +43,4 @@ def func_test(a):
     print("Hello World")
 
 
-print("Hallo")
+func_test("Hallo")

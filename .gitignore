@@ -1,5 +1,6 @@
 .mypy_cache
 .pytest_cache
 .vscode
-__pychache__
+__pycache__/
+*.py[cod]
 *.pyc
