@@ -38,9 +38,9 @@ def select_relevant_columns(df: pd.core.frame.DataFrame) -> pd.core.frame.DataFr
     return df
 
 
-def func_test(a):
+def func_test(a: int):
 
-    print("Hello World")
+    print(a)
 
 
-func_test("Hallo")
+func_test(10)
