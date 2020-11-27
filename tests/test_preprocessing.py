@@ -15,7 +15,7 @@ def test_2_select_relevant_cols_original_df(initial_data_frame):
 
     df = pp.select_relevant_columns(initial_data_frame)
     print("Test 2")
-    assert len(df.columns) == 8
+    assert len(df.columns) == 7
 
 
 def test_3_error_select_relevant_cols():
