@@ -1,3 +1,5 @@
+![](https://github.com/CleKraus/project_restaurant/workflows/Test_Lesson/badge.svg)
+
 # project_restaurant
 
 Hello this is the readme file
