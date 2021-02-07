@@ -46,7 +46,7 @@ def select_relevant_columns(df: pd.core.frame.DataFrame) -> pd.core.frame.DataFr
 
 
 def delete_restaurants_wo_category(
-    df: pd.core.frame.DataFrame
+    df: pd.core.frame.DataFrame,
 ) -> pd.core.frame.DataFrame:
     """
     Delete all the restaurants for which there is no category
