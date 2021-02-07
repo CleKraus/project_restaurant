@@ -88,5 +88,5 @@ def search_restaurant(
         logging.warning(f"No restaurant of category {category} found")
         return df_cat
     else:
-        df_close = get_closest_restaurant(df, lng, lat)
+        df_close = get_closest_restaurant(df_cat, lng, lat)
         return df_close
