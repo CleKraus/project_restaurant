@@ -6,8 +6,10 @@ cfgv==3.2.0
 click==7.1.2
 colorama==0.4.4
 distlib==0.3.1
+fastapi==0.63.0
 filelock==3.0.12
 flake8==3.8.4
+h11==0.12.0
 identify==1.5.9
 iniconfig==1.1.1
 mccabe==0.6.1
@@ -22,6 +24,7 @@ pluggy==0.13.1
 pre-commit==2.8.2
 py==1.9.0
 pycodestyle==2.6.0
+pydantic==1.7.3
 pyflakes==2.2.0
 pyparsing==2.4.7
 pytest==6.1.2
@@ -30,7 +33,9 @@ pytz==2020.1
 PyYAML==5.3.1
 regex==2020.10.28
 six==1.15.0
+starlette==0.13.6
 toml==0.10.1
 typed-ast==1.4.1
 typing-extensions==3.7.4.3
+uvicorn==0.13.3
 virtualenv==20.1.0
